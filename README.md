@@ -13,9 +13,10 @@ Execute o arquivo "main.py" com o comando python main.py.
 A média dos preços dos smartphones será exibida no terminal, junto com uma piada aleatória sobre Chuck Norris.
 
 # Tecnologias Utilizadas
-Python 3.x
+Python 3.11.3
 Requests
 SQLite3
+Pandas
 
 
 Autor
